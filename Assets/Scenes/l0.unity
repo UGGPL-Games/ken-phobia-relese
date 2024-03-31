@@ -1819,7 +1819,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 18b822897c1b74f4595c39cc380c9c38, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1924,7 +1924,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: f9b75808bdd82704f992309105683c80, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2134,7 +2134,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 4a408d38920d0c64abdf94563d5626a7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5726,7 +5726,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 8dc7de221ad672a4ba27e44ecae0f3ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6159,7 +6159,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6487,7 +6487,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 02f1b9bfc8ec3564a91bc2c80c82fe78, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7979,7 +7979,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: f398dfdf3cc58884da9857ac75727fce, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8084,7 +8084,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 9007beda6e4ca4c46a1ecfbd9a0f0a90, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8622,7 +8622,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9372,7 +9372,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 1ee8eaac9a9c6ae41a6499da9e439184, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10003,7 +10003,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 021878226fa7a984195930bfeed1d904, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11965,7 +11965,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: f9b75808bdd82704f992309105683c80, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12491,7 +12491,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: c3fe7ba776c6151498309c0e6e4eae0b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13058,6 +13058,7 @@ GameObject:
   - component: {fileID: 457096936}
   - component: {fileID: 457096935}
   - component: {fileID: 457096934}
+  - component: {fileID: 457096937}
   m_Layer: 0
   m_Name: Cube (429)
   m_TagString: Obstacle
@@ -13121,7 +13122,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: bcfc3393ffc79d941ae233f5e892fb5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13151,6 +13152,40 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 457096932}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!328 &457096937
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457096932}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 671ffc6c28ded454cbca7b894ef8278b, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources: []
+  m_DirectAudioVolumes: []
+  m_Url: 
+  m_EnabledAudioTracks: 
+  m_DirectAudioMutes: 
+  m_ControlledAudioTrackCount: 0
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &465947112
 GameObject:
   m_ObjectHideFlags: 0
@@ -17140,7 +17175,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 72a67c57a96691a4487e0f19335b76d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21379,6 +21414,7 @@ GameObject:
   - component: {fileID: 790247752}
   - component: {fileID: 790247751}
   - component: {fileID: 790247750}
+  - component: {fileID: 790247753}
   m_Layer: 0
   m_Name: Cube (381)
   m_TagString: Obstacle
@@ -21442,7 +21478,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 654dce44fcad0154aa71e575d619c1c7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21472,6 +21508,40 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 790247748}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!328 &790247753
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790247748}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 6c35173507db2b349924da73b09cace9, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources: []
+  m_DirectAudioVolumes: []
+  m_Url: 
+  m_EnabledAudioTracks: 
+  m_DirectAudioMutes: 
+  m_ControlledAudioTrackCount: 0
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &790724068
 GameObject:
   m_ObjectHideFlags: 0
@@ -23129,7 +23199,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: a9b66369ee939bc40b396cd627404c63, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28380,7 +28450,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: bf3a626a95b36cd449357183aac4419c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30471,7 +30541,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -32826,7 +32896,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 18b822897c1b74f4595c39cc380c9c38, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -36443,7 +36513,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: 17f7d3520e9d39d4e8c324d839b2d24d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37365,7 +37435,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40446,7 +40516,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40689,7 +40759,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41046,6 +41116,7 @@ GameObject:
   - component: {fileID: 1441262725}
   - component: {fileID: 1441262724}
   - component: {fileID: 1441262723}
+  - component: {fileID: 1441262726}
   m_Layer: 0
   m_Name: Cube (375)
   m_TagString: Obstacle
@@ -41109,7 +41180,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: bcfc3393ffc79d941ae233f5e892fb5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41139,6 +41210,42 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441262721}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!328 &1441262726
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441262721}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 776898b1783a58248b52b2967add6b60, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &1442301016
 GameObject:
   m_ObjectHideFlags: 0
@@ -43149,7 +43256,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: ed765f86effe6924c9b90987aeea3eb8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44878,7 +44985,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: bcfc3393ffc79d941ae233f5e892fb5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45456,7 +45563,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 0247e7a4dd367c142b8b14952ebed186, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45876,7 +45983,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: 7bb0ca65f1f5afd4b9f95121b9e4d4ae, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -48122,7 +48229,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -50814,7 +50921,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 30ad07da54cad9644a325974e0c1c0f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51550,7 +51657,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: f398dfdf3cc58884da9857ac75727fce, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51655,7 +51762,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: d4f9fe68ca02dba4ab70e4aab165bc1b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -52837,7 +52944,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 7d030c2ad35a1334da853033ce967395, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53165,7 +53272,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 1e93dfd8ca040b546880499fe46e842f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53630,7 +53737,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: e65de814b0728e04497680dad671e755, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -54157,7 +54264,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 21e826685a5bedc4bbedd309a3813c64, type: 2}
+  - {fileID: 2100000, guid: 72a67c57a96691a4487e0f19335b76d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -55957,7 +56064,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: e6ecf9cef9e5be14eabc4dc28f30ebf4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56422,6 +56529,7 @@ GameObject:
   - component: {fileID: 2007450730}
   - component: {fileID: 2007450729}
   - component: {fileID: 2007450728}
+  - component: {fileID: 2007450731}
   m_Layer: 0
   m_Name: Cube (382)
   m_TagString: Obstacle
@@ -56485,7 +56593,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 54d347bb7f64a7048bb3cc374dc28fea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56515,6 +56623,42 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2007450726}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!328 &2007450731
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007450726}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 55787999e4b88904dbd81ca5c99c3105, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &2011566411
 GameObject:
   m_ObjectHideFlags: 0
@@ -60211,7 +60355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3523c60b8bde86747a3360ae1f7fa573, type: 2}
+  - {fileID: 2100000, guid: 4a408d38920d0c64abdf94563d5626a7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60463,6 +60607,7 @@ GameObject:
   - component: {fileID: 2112402862}
   - component: {fileID: 2112402861}
   - component: {fileID: 2112402860}
+  - component: {fileID: 2112402863}
   m_Layer: 0
   m_Name: Cube (438)
   m_TagString: Obstacle
@@ -60526,7 +60671,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d5f4040e36760574bac5ca58e4a73b41, type: 2}
+  - {fileID: 2100000, guid: aba320048750f8e41a819036d6096ba3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60556,6 +60701,42 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2112402858}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!328 &2112402863
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112402858}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 53a5725c8cc37024597be56d81cc1d28, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &2114898529
 GameObject:
   m_ObjectHideFlags: 0
