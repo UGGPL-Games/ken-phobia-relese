@@ -1,0 +1,17 @@
+Hello! i see that you downloaded the nextbot base if you want a video tutorial head to this link:
+
+or if you want a text tutorial keep reading!
+
+first lets make a new nextbot by spawning our template prefab now that thats done lets add our nextbot image click it and change the sprite to the nextbot PNG make sure its a sprite
+and next is making it chase your player! first select you player not gfx or anything else the player empty like with the scripts
+now give it the tag player and thats it!
+
+you now have a nextbot it here is a quick if you down want to read that
+
+.1 add the nextbot prefab
+.2 replace the image of the nextbot
+.3 give your player the tag player
+
+have fun please make sure to credit me for this
+
+if you have any problems please report them on the tutorial video.
