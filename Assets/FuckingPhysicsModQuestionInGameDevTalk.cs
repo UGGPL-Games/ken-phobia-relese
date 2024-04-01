@@ -30,6 +30,12 @@ public class FuckingPhysicsModQuestionInGameDevTalk : MonoBehaviour
             Invoke("RageQuit", terroristsWin);
         }
     }
+    
+    public void ITookADump() {
+            xj.SetActive(true);
+            PlayAudio();
+            Invoke("RageQuit", terroristsWin);
+    }
 
     // get the fuck out
     private void RageQuit()
